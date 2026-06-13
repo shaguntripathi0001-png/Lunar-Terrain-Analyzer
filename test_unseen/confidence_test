@@ -1,0 +1,15 @@
+from ultralytics import YOLO
+
+model = YOLO("runs/detect/train-4/weights/best.pt")
+
+for conf in [0.2, 0.4, 0.6]:
+
+    model.predict(
+        source="test.jpg",
+        conf=conf,
+        save=True,
+        project="confidence_tests",
+        name=f"conf_{conf}"
+    )
+
+print("Done")

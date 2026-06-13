@@ -1,0 +1,93 @@
+evaluation_notes.txt
+image1.jpg
+
+total-12
+Correct detections:6
+Missed craters:3
+False detections:1
+
+-------------------
+
+image2.jpg
+
+total-3
+Correct detections:2
+Missed craters:
+False detections:1
+
+-------------------
+
+image3.jpg
+
+total-1
+Correct detections:0
+Missed craters:1
+False detections:1
+
+-------------------
+
+image4.jpg
+
+total-4
+Correct detections:1
+Missed craters: many
+False detections:3
+
+-------------------
+
+image5.jpg
+
+total-10
+Correct detections:3
+Missed craters:0
+False detections:7
+
+-------------------
+
+image6.jpg
+
+total-18
+Correct detections:10
+Missed craters:2
+False detections:8
+
+-------------------
+
+
+image7.jpg
+
+total-2
+Correct detections:0
+Missed craters:
+False detections:2
+
+-------------------
+
+image8.jpg
+
+total-6
+Correct detections:4
+Missed craters:3
+False detections:2
+
+-------------------
+
+image9.jpg
+
+total-2
+Correct detections:1
+Missed craters:0
+False detections:1
+
+-------------------
+
+image10.jpg
+
+total-1
+Correct detections:1
+Missed craters:3
+False detections:0
+
+-------------------
+
+
