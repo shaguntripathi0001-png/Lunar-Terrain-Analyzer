@@ -5,6 +5,7 @@
 Lunar Terrain Analyzer is an AI-powered lunar surface analysis system designed to assist in the evaluation of lunar terrain for potential landing missions.
 
 The system integrates crater detection, terrain relief analysis, and safe landing zone identification into a single graphical interface, enabling users to analyze lunar images and assess landing suitability.
+This project was developed to explore how computer vision and AI can assist in preliminary lunar landing-site assessment. By combining crater detection, terrain analysis, and landing-zone estimation, the system demonstrates an end-to-end workflow for lunar surface evaluation.
 
 ---
 
@@ -121,6 +122,15 @@ Lunar-Terrain-Analyzer
 * AI-based planetary exploration studies
 
 ---
+
+## Results
+
+- YOLO-based crater detection on lunar imagery
+- Terrain relief visualization using image processing
+- Automated safe landing zone estimation
+- Interactive GUI for complete analysis workflow
+
+
 
 ## Installation
 
